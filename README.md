@@ -4,7 +4,7 @@ End-of-season competition software for our VEX V5 robot.
 
 This repository includes full **device configuration**, multiple **PID controllers** (drive + Lady Brown arm), complete **autonomous strategies** (including winpoint + skills), responsive **driver control**, and a **real-time PID error graph** drawn on the V5 Brain for live tuning.
 
-> Lead Programmer: **Isaiah Thomas** • Team: **Velocity Robotics 20020X** • Environment: **VEXcode Pro V5 (C/C++)**
+> Programmer: **Isaiah Thomas** • Team: **Velocity Robotics 20020X** • Environment: **VEXcode Pro V5 (C/C++)**
 
 ---
 
