@@ -152,6 +152,6 @@ Check out our autonomous + skills highlights:
 
 ## Credit
 
-Built by **Isaiah Thomas** for the 2024–2025 High Stakes season.  
+Built by **Isaiah Thomas & Saavan Kiran** for the 2024–2025 High Stakes season.  
 Fork + adapt for learning purposes—please acknowledge original repo.
 
